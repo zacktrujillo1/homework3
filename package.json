@@ -1,0 +1,23 @@
+{
+  "name": "homework3",
+  "version": "1.0.0",
+  "description": "homework 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacktrujillo1/homework3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacktrujillo1/homework3/issues"
+  },
+  "homepage": "https://github.com/zacktrujillo1/homework3#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
